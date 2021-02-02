@@ -18,11 +18,6 @@ did2 = random.randint(1,5)
 
 
 
-#def math(hp,atack):
- #   feels_bad=(hp-atack)
-  #  return feels_bad
-
-
 
 def stats(atack, hp):
     global atack1
